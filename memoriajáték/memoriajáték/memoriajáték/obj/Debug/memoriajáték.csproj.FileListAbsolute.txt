@@ -1,0 +1,16 @@
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.csproj.AssemblyReference.cache
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\MainWindow.baml
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\MainWindow.g.cs
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\App.g.cs
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték_MarkupCompile.cache
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.g.resources
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.Properties.Resources.resources
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.csproj.GenerateResource.cache
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.csproj.CoreCompileInputs.cache
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\bin\Debug\memoriajáték.exe.config
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\bin\Debug\memoriajáték.exe
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\bin\Debug\memoriajáték.pdb
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\GameWindow.baml
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\GameWindow.g.cs
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.exe
+C:\Users\Otthon\Desktop\memoriajáték\memoriajáték\memoriajáték\obj\Debug\memoriajáték.pdb

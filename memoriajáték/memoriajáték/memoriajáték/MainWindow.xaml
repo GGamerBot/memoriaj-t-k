@@ -1,0 +1,33 @@
+﻿<Window x:Class="MemoryGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Memory Game Setup" Height="200" Width="250"
+        Background="Black">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Label Content="Válassza ki a játék méretét:" 
+               Foreground="DarkBlue" 
+               FontFamily="Comic Sans MS" 
+               Background="Black"
+               FontSize="16" 
+               Margin="10"/>
+        <ComboBox Name="SizeComboBox" 
+                  FontFamily="Comic Sans MS" 
+                  Foreground="DarkBlue" 
+                  Background="Black"
+                  FontSize="16"
+                  Margin="10" 
+                  Width="120">
+            <ComboBoxItem Content="2x2" />
+            <ComboBoxItem Content="4x4" />
+            <ComboBoxItem Content="6x6" />
+            <ComboBoxItem Content="8x8" />
+        </ComboBox>
+        <Button Content="Start" 
+                Click="StartButton_Click"
+                FontFamily="Comic Sans MS"
+                Foreground="DarkBlue"
+                Background="Black"
+                FontSize="16" 
+                Margin="10"/>
+    </StackPanel>
+</Window>
